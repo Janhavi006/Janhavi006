@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janhavi94532716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janhavi94532716" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/janhavi-singh-86051b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janhavi-singh-86051b18b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janhavi-singh-86051b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi-singh-86051b18b" height="30" width="40" /></a>
 <a href="https://instagram.com/janhavi_singh006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janhavi_singh006" height="30" width="40" /></a>
 </p>
 
