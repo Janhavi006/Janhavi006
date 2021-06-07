@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Janhavi Singh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A girl trying to figure out stuff</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janhavi006" alt="janhavi006" /></a> </p>
 
