@@ -1,8 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Janhavi Singh</h1>
-<h3 align="center">A girl trying to figure out stuff</h3>
+<h3 align="center">A passionate techie</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janhavi006&label=Profile%20views&color=0e75b6&style=flat" alt="janhavi006" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janhavi006" alt="janhavi006" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/janhavi94532716" target="blank"><img src="https://img.shields.io/twitter/follow/janhavi94532716?logo=twitter&style=for-the-badge" alt="janhavi94532716" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
@@ -15,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/janhavi94532716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="janhavi94532716" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/janhavi singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janhavi-singh86051b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janhavi-singh86051b18b" height="30" width="40" /></a>
 <a href="https://instagram.com/janhavi_singh006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janhavi_singh006" height="30" width="40" /></a>
 </p>
 
